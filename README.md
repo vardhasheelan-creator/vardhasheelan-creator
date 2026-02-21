@@ -18,6 +18,11 @@ I build automation-driven analytics dashboards and customer support insights too
 🛠 Tech Stack
 Python • SQL • Streamlit • AWS • Flask • Pandas • Matplotlib
 
+🔗 Open Source Contribution
+• Added Trust Score Network Dashboard (Streamlit) to agent-mesh project
+• Visualizes agent relationships using NetworkX graphs
+• Created via fork → feature branch → pull request workflow
+
 💡 What I Enjoy Working On
 - Automation & workflow analytics  
 - Customer support data insights  
