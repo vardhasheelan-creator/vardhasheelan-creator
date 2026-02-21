@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Vardhasheela 👋
 
-<!--
-**vardhasheelan-creator/vardhasheelan-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Support Engineer | Data & Dashboard Enthusiast
 
-Here are some ideas to get you started:
+🔹 Built PMP Ticket Analytics Dashboard (Streamlit)  
+🔹 Experience in AWS, Python, SQL & Customer Analytics  
+🔹 Passionate about automation & workflow analytics  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- 📊 PMP Ticket Dashboard – Streamlit Analytics Tool
+- 🌐 Personal Portfolio Website
+- ✅ Flask To-Do Neon Web App
+
+## 🛠 Tech Stack
+Python | SQL | Streamlit | AWS | Flask | Pandas | Matplotlib
